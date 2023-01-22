@@ -11,7 +11,7 @@ module.exports = {
 	// entry not required if using `src/index.js` default
 	// output not required if using `dist/main.js` default
 	output: {
-		publicPath: "./assets",
+		publicPath: "/",
 	},
 	module: {
 		rules: [
